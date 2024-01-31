@@ -1,0 +1,1 @@
+DeepGeCo is a reimagined deep learning-based genomic data compressor. As part of the BioCompressor project, we will soon open-source the source code of the DeepGeCo compression framework.
